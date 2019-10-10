@@ -1,0 +1,133 @@
+WEBVTT
+
+00:00.570 --> 00:06.870
+Bienvenidos al curso angular en español desde Hola Mundo hasta crear aplicaciones antes de empezar necesitamos
+
+00:06.870 --> 00:11.380
+tener instaladas y configuradas las herramientas con las cuales trabajaremos en esta clase.
+
+00:11.400 --> 00:18.200
+Las herramientas serán el Solheim text fulcro y el SAMP sabelo configuramos más adelante en el curso
+
+00:18.690 --> 00:22.870
+cuando lo necesitemos por los momentos trabajaremos únicamente con CRO y text.
+
+00:23.000 --> 00:27.930
+El resultado del material descargable aclaracion archivo PDF donde encontrarás links para que puedas
+
+00:27.930 --> 00:29.340
+obtener estos programas.
+
+00:29.340 --> 00:36.810
+Todos son gratuitos aunque suelen te pedirá periódicamente quiero adquieras si te parece útil.
+
+00:37.170 --> 00:41.400
+Lo primero que haremos es descargar el archivo PDF que se encuentra en la sección de descargas de esta
+
+00:41.400 --> 00:42.300
+clase.
+
+00:42.300 --> 00:47.910
+Lo hacemos y lo abrimos con podrán observar son links de descarga a diferentes programas.
+
+00:47.910 --> 00:54.360
+El primero es Volcom lo descargamos lo instalamos con la configuración por defecto en caso de no tenerlo
+
+00:54.360 --> 00:58.890
+hecho ustedes ya lo tienen configurado e instalado pues ningún problema podemos utilizar pueden usar
+
+00:58.890 --> 01:05.070
+ustedes también Safari Firefox o cualquier otro navegador web pero es recomendable que a lo largo de
+
+01:05.070 --> 01:09.270
+este curso usen el Google Crom las herramientas de desarrollo.
+
+01:09.270 --> 01:12.920
+Después ustedes podrán utilizar el que deseen.
+
+01:13.620 --> 01:18.310
+El siguiente programa a descargar es el texto.
+
+01:18.450 --> 01:24.450
+En este caso utilizaremos el 3 que está en beta pero es bastante estable y nos permitirá hacer una serie
+
+01:24.450 --> 01:27.740
+de funciones y es lo más parecido a lo que usaremos en este curso.
+
+01:28.410 --> 01:32.890
+Vale la pena decir que tienes que descargarlo para su sistema operativo respectivamente se usan Mac
+
+01:32.930 --> 01:36.920
+o SX Windows o Linux.
+
+01:37.110 --> 01:42.240
+Es preferible que usemos el 3 para evitar diferencias en el Código porque si cambio bastante entre el
+
+01:42.240 --> 01:49.800
+2 y el 3 el texto es un bloc de notas pero con esteroides es un muy muy poderoso editor de texto ya
+
+01:49.800 --> 01:52.200
+van a ver porque es uno de los más usados a nivel mundial.
+
+01:53.560 --> 02:01.400
+El siguiente programa que ocuparemos descargar pero configurar después es el SAMP este nos permitirá
+
+02:01.400 --> 02:06.950
+configurar un servidor Apache SQL para correr diferentes tipos de códigos esto lo utilizaremos después
+
+02:07.220 --> 02:13.650
+no lo instalen todavía solo lo descargan y lo tienen ahí pero no lo utilizaremos todavía.
+
+02:13.760 --> 02:20.840
+Una vez hecho esto descargando e instalando sus lentes y el Google Chrome ahora lo que viene es la configuración
+
+02:20.840 --> 02:25.050
+del mismo vamos a abrir el texto por primera vez.
+
+02:25.050 --> 02:30.280
+Como podrán ver es una pantalla negra como ésta y lo único que necesitamos instalar y configurar es
+
+02:30.280 --> 02:31.180
+el paquete control.
+
+02:31.190 --> 02:32.780
+Pero es bastante sencillo.
+
+02:33.250 --> 02:38.550
+El paquete de nos va a permitir instalar diferentes códigos o extender el texto.
+
+02:38.590 --> 02:44.800
+En este caso lo ocuparemos para agregarle las ayudas de la angula para hacer eso vamos a abrir nuestro
+
+02:44.800 --> 02:52.450
+documento PDF nuevamente click aquí si estamos utilizando la versión del textures cooperemos este código
+
+02:52.540 --> 03:01.450
+si estamos anotados pues cooperemos este otro este caso vamos a copiar todo esto con SUSE o Comanche.
+
+03:01.480 --> 03:09.550
+Regresamos al texto nos vamos a Ambigú yo Consol click aquí en esta caja que aparece aquí vamos a pegar
+
+03:09.790 --> 03:12.880
+el código que copiamos le damos etc..
+
+03:13.210 --> 03:17.880
+Una vez aparece esto listo ya tenemos instalado el paquete control.
+
+03:18.000 --> 03:24.910
+Es que en algunas ocasiones hay que reiniciar el texto lo hacemos en caso de que sea necesario.
+
+03:24.930 --> 03:31.530
+Ahora para usar ese paquete control vamos a presionar Command chip o control SIP vamos a listó paquetes
+
+03:32.910 --> 03:42.700
+enter aquí va empezar a cargar una serie de recursos públicos vamos a escribir angular llegais y vamos
+
+03:42.700 --> 03:49.690
+a instalar éste que se encuentra en el ángulo geis snippets s nos va a permitir que nos aparezcan las
+
+03:49.690 --> 03:52.360
+ayudas de la angula cuando estemos escribiendo y listo.
+
+03:52.390 --> 03:57.040
+Eso es todo lo que necesitamos para empezar a trabajar con aunqueel Allais en su Blain texto.
